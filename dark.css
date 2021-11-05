@@ -26,7 +26,7 @@ h1 h2 h3 h4 h5{
     color: white;
 }
 .dot {
-  color:rgb(255, 255, 255);
+  color:rgb(255, 255, 255) ;
   margin-top: 0px;
   margin-left: 5px;
   height: 25px;
